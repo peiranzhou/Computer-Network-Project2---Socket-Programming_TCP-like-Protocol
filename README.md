@@ -1,6 +1,5 @@
 # Computer-Network-Project2---Socket-Programming_TCP-like-Protocol
 
-—————————————————————————————————————————————————————————————————————————
 (a) A brief description of TCP-like protocol
 
 I implemented a TCP-like protocol using Java. The sender and receiver main files called “sender.java” and “receiver.java”.
@@ -9,7 +8,7 @@ Files included in submitted folder - “pz2210_java”:
 sender.java  receiver.java  README.txt  makefile  sender_logfile.txt  recerver_logfile.txt
 original_file.txt  reconstruct_file.txt
 
-—————————————————————————————————————————————————————————————————————————
+
 (b) The TCP segment structure I used
 
 b.1> The header file (20 Bytes) of TCP includes: Source Port, Destination Port, Sequence Number, Acknowledgement Number, Flags, Checksum.
@@ -30,7 +29,7 @@ b.2> The data segment of TCP is 576 Bytes.
               |                 Data Segment (576 Bytes)           |
               —————————————————————————————————————————————————————
 
-—————————————————————————————————————————————————————————————————————————
+
 (c) Instruction of running the program
 
 *************** Test on Localhost ***************
@@ -86,12 +85,12 @@ $ java receiver reconstruct_file.txt 8000 160.39.138.66 41193 recerver_logfile.t
 
 $ java sender original_file.txt 160.39.138.66 41192 5000 sender_logfile.txt 1
 
-—————————————————————————————————————————————————————————————————————————
+
 (d) For the recovery relevant function:
 
 My TCP-like protocol can recover from in-network packet loss, packet corruption, packet duplication, packet reordering and dynamic network delay.
 
-—————————————————————————————————————————————————————————————————————————
+
 (e) Unusual about implementation
 
 My protocol is pretty generic, there is no strange or unusual bug in my program. 
