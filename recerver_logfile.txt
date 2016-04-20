@@ -1,0 +1,14 @@
+Timestamp - Received: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; Sequence NO. 1; FIN Value: 0; 
+Timestamp - SentACK: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; ACK NO. 1; FIN Value: 0; 
+Timestamp - Received: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; Sequence NO. 2; FIN Value: 0; 
+Timestamp - SentACK: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; ACK NO. 2; FIN Value: 0; 
+Timestamp - Received: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; Sequence NO. 3; FIN Value: 0; 
+Timestamp - SentACK: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; ACK NO. 3; FIN Value: 0; 
+Timestamp - Received: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; Sequence NO. 4; FIN Value: 0; 
+Timestamp - SentACK: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; ACK NO. 4; FIN Value: 0; 
+Timestamp - Received: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; Sequence NO. 5; FIN Value: 0; 
+Timestamp - SentACK: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; ACK NO. 5; FIN Value: 0; 
+Timestamp - Received: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; Sequence NO. 6; FIN Value: 0; 
+Timestamp - SentACK: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; ACK NO. 6; FIN Value: 0; 
+Timestamp - Received: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; Sequence NO. 7; FIN Value: 1; 
+Timestamp - SentACK: Apr 19,2016 16:39:47; Source Port: 5000; Source IP: /0:0:0:0:0:0:0:1; Destination Port: 8000; Destination IP: dyn-160-39-138-66.dyn.columbia.edu/160.39.138.66; ACK NO. 7; FIN Value: 1; 
